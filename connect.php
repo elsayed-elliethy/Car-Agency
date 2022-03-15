@@ -1,5 +1,5 @@
 <?php 
-    $dsn='mysql:host="" ;dbname=shop';
+    $dsn='mysql:host="https://github.com/" ;dbname=shop';
     $user='root';
     $pass='';
     $option=array(
