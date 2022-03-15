@@ -1,5 +1,5 @@
 <?php 
-    $dsn='mysql:host="https://github.com/" ;dbname=shop';
+    $dsn='mysql:host="https://elsayed-elliethy.github.io/" ;dbname=shop';
     $user='root';
     $pass='';
     $option=array(
