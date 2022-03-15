@@ -1,6 +1,6 @@
 <?php 
-    $dsn='mysql:host="https://elsayed-elliethy.github.io/" ;dbname=shop';
-    $user='root';
+    $dsn='mysql:host="" ;dbname=shop';
+    $user='';
     $pass='';
     $option=array(
         PDO::MYSQL_ATTR_INIT_COMMAND =>'SET NAMES utf8',
